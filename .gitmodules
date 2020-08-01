@@ -1,0 +1,12 @@
+[submodule "Report"]
+	path = Report
+	url = https://github.com/SaiHemanthBR/Kushagra-Report.git
+[submodule "AI"]
+	path = AI
+	url = https://github.com/SaiHemanthBR/Kushagra-AI.git
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/SaiHemanthBR/Kushagra-iOS.git
+[submodule "Android"]
+	path = Android
+	url = https://github.com/SaiHemanthBR/Kushagra-Android.git
